@@ -1,16 +1,25 @@
-# storeapp
+# 🛍️ StoreApp
 
-A new Flutter project.
+A Flutter-based e-commerce product catalog app. Users can browse products by category, view detailed descriptions, and experience smooth, responsive UI interactions.
 
-## Getting Started
+## 🎯 Features
 
-This project is a starting point for a Flutter application.
+- Real-time product listing with Firebase Firestore
+- Product category filters and detail view
+- Interactive, scrollable UI with Flutter widgets
+- Responsive layout across Android devices
+- State management using Provider
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter, Dart
+- Firebase Firestore
+- Provider (State Management)
+- Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/storeapp.git
+```
